@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(128, 128, 128, 0.397);
+}
+.container{
+    height: 400px;
+    width: 260px;
+    background-color: white;
+    margin:auto;
+    margin-top: 180px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 1pc gray;
+}
+.image-turtle{
+        height: 200px;
+        width:220px;
+        padding:20px;
+        border-radius:10px;
+        border: 1px;      
+}
+.text-font{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+.text-font2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:gray;
+}
